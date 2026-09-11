@@ -110,17 +110,20 @@ PPO 的强度高度依赖环境/对手池的分布。本项目两种主流训练
 - PyTorch + CUDA（8 卡 PPO 训练目标为 NVIDIA A100 40GB）
 - 官方 PTCG 离线引擎（仅离线 oracle 差分验证，不进入训练热路径）
 
-### 单一入口文档
+### 关键文档（本仓库保留的 5 份）
 
 - [`PTCG_JAX_ENGINE_README.md`](./PTCG_JAX_ENGINE_README.md) —— 纯 JAX 规则引擎架构说明
+- [`BC_DATA_PIPELINE.md`](./BC_DATA_PIPELINE.md) —— 行为克隆数据管线
+- [`PORTABLE_8GPU_MODE_AR_README.md`](./PORTABLE_8GPU_MODE_AR_README.md) —— mode-AR 主力 8×A100 训练包
+- [`PPO_V2_TRAINING_REPORT.md`](./PPO_V2_TRAINING_REPORT.md) —— league PPO 完整训练报告
 
 ### 8 卡 PPO 训练包
 
-依赖见 `portable_8gpu_requirements.txt`，一条命令启动（详见 [`PORTABLE_8GPU_README.md`](./PORTABLE_8GPU_README.md) / [`PORTABLE_8GPU_MODE_AR_README.md`](./PORTABLE_8GPU_MODE_AR_README.md)）：
+依赖见 `portable_8gpu_requirements.txt`，一条命令启动（详见 [`PORTABLE_8GPU_MODE_AR_README.md`](./PORTABLE_8GPU_MODE_AR_README.md)）：
 
 ```bash
 chmod +x setup_and_run_8gpu_mode_ar.sh
-./setup_and_run_8gpu_mode_ar.sh               # 或 setup_and_run_8gpu.sh（V7 配置）
+./setup_and_run_8gpu_mode_ar.sh
 ```
 
 ---
@@ -134,13 +137,17 @@ chmod +x setup_and_run_8gpu_mode_ar.sh
 
 ---
 
-## 📚 训练报告
+## 📚 关键文档
 
-完整中文训练与消融报告，例如：
+本仓库精选保留 5 份完整、准确的文档（其余历史训练与提交报告仅保留在本机，未上传）：
 
-- `PPO_TRAINING_REPORT.md` · `PPO_V2_TRAINING_REPORT.md` · `PPO_V5_RETRAIN_REPORT_20260726.md` … `PPO_V9_QUOTA_REPORT_20260726.md`
-- `BC_DATA_PIPELINE.md` · `BC_TRAINING_REPORT.md` · `BC_KAGGLE_PACKAGE_REPORT.md`
-- `MARNIE_BC_RETRAIN_REPORT_20260813.md` · `KAGGLE_SUBMISSION_REPORT.md`
+| 文档 | 说明 |
+|---|---|
+| `README.md` | 总览与技术方案 |
+| `PTCG_JAX_ENGINE_README.md` | 纯 JAX 规则引擎架构 |
+| `BC_DATA_PIPELINE.md` | 行为克隆数据管线 |
+| `PORTABLE_8GPU_MODE_AR_README.md` | mode-AR 主力 8×A100 训练包 |
+| `PPO_V2_TRAINING_REPORT.md` | league PPO 完整训练报告 |
 
 ---
 

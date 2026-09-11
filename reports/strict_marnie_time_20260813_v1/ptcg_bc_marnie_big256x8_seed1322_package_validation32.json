@@ -1,0 +1,13 @@
+{
+  "games_requested": 32,
+  "valid_games": 32,
+  "invalid_games": 0,
+  "engine_decisions": 6593,
+  "exact_action_matches": 6593,
+  "action_mismatches": 0,
+  "action_order_mode": "canonical",
+  "deployment_contract": null,
+  "packaged_agent_seconds": 101.11241055454593,
+  "mean_packaged_agent_ms": 15.336328007666605,
+  "passed": true
+}

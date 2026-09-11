@@ -1,0 +1,111 @@
+{
+  "candidate": {
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/artifacts/gold_strict_20260813_v1/marnie_bc_hash90_setbce1_ft4_seed2026081314/best.pt",
+    "sha256": "1e53117f0e217785f79f1896aab3eee20752c8ccef8d7cdf50812ae9c80f9c21",
+    "feature_version": "ptcg-bc-orbit-entity-transformer-v5",
+    "update": null,
+    "deck": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/gold8_recent7_20260808/decks/c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af.csv",
+    "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+    "canonical_order": true,
+    "hybrid_order": false,
+    "order_mode": "canonical"
+  },
+  "opponent": {
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/artifacts/ppo_marnie_v3_incumbent600/best.pt",
+    "sha256": "d3278052b2f13d0157b37ba8b43a21a0727233e093e8adc7963b4ee085f599de",
+    "feature_version": "ptcg-selfplay-ppo-terminal01-v1",
+    "update": 440,
+    "deck": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/gold8_recent7_20260808/decks/c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af.csv",
+    "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+    "canonical_order": false,
+    "hybrid_order": false,
+    "order_mode": "raw"
+  },
+  "engine": {
+    "games_requested": 512,
+    "environments": 32,
+    "max_game_decisions": 1000,
+    "engine_seed_control": false,
+    "engine_seed_warning": "Python/Torch seeds do not control the official battle engine RNG; repeated runs are independent, not reproducible or paired engine-seed trials.",
+    "python_torch_seed": 2026081317,
+    "device": "cuda"
+  },
+  "evaluation": {
+    "valid_games": 512,
+    "wins": 362,
+    "losses": 150,
+    "draws": 0,
+    "invalid_games": 0,
+    "win_rate": 0.70703125,
+    "decisive_win_rate": 0.70703125,
+    "mean_decisions": 203.099609375,
+    "max_active_games": 32,
+    "seconds": 155.67749571800232,
+    "by_candidate_seat": {
+      "0": {
+        "valid_games": 256,
+        "wins": 184,
+        "losses": 72,
+        "draws": 0,
+        "win_rate": 0.71875,
+        "wilson_95_low": 0.6607529778983319,
+        "wilson_95_high": 0.7702790849153494
+      },
+      "1": {
+        "valid_games": 256,
+        "wins": 178,
+        "losses": 78,
+        "draws": 0,
+        "win_rate": 0.6953125,
+        "wilson_95_low": 0.6363862715072103,
+        "wilson_95_high": 0.7484637845764336
+      }
+    },
+    "seat_balance": {
+      "assignment_mode": "exact_valid_game_quota_v1",
+      "requested_games_by_candidate_seat": {
+        "0": 256,
+        "1": 256
+      },
+      "actual_valid_games_by_candidate_seat": {
+        "0": 256,
+        "1": 256
+      },
+      "requested_games_even": true,
+      "strict_even_balance_required": true,
+      "strict_even_balance_verified": true,
+      "actual_valid_game_gap": 0,
+      "aggregate_equals_seat_sum_verified": true
+    },
+    "invalid_by_reason": {},
+    "invalid_by_candidate_seat": {
+      "0": {
+        "invalid_games": 0,
+        "by_reason": {}
+      },
+      "1": {
+        "invalid_games": 0,
+        "by_reason": {}
+      }
+    },
+    "invalid_error_messages": {},
+    "invalid_audit_complete": true,
+    "conservative_invalid_as_loss": {
+      "trials": 512,
+      "wins": 362,
+      "nonwins": 150,
+      "win_rate": 0.70703125,
+      "wilson_95_low": 0.6661839068195801,
+      "wilson_95_high": 0.7447950797951639,
+      "gate_ci_low_above_0_5": true,
+      "invalid_rate": 0.0,
+      "interpretation": "every invalid game is counted as a candidate loss"
+    },
+    "wilson_95_low": 0.6661839068195801,
+    "wilson_95_high": 0.7447950797951639,
+    "gate_ci_low_above_0_5": true
+  },
+  "started_at_utc": "2026-08-12T20:10:50.143667+00:00",
+  "finished_at_utc": "2026-08-12T20:13:25.856003+00:00",
+  "elapsed_seconds": 155.6778290271759
+}

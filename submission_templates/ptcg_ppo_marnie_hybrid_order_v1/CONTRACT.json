@@ -1,0 +1,21 @@
+{
+  "schema_version": "ptcg-ppo-submission-template-contract-v1",
+  "template_version": "ptcg-ppo-marnie-hybrid-order-v1",
+  "decode": {
+    "order_mode": "hybrid",
+    "cardinality": "legal_masked_greedy",
+    "selection": "greedy_plackett_luce_without_replacement",
+    "canonicalize_order": false,
+    "sort_selected_indices": "all contexts except 34",
+    "preserve_order_contexts": [34]
+  },
+  "deck": {
+    "semantic_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+    "cards": 60
+  },
+  "template_files": {
+    "main.py": "f94b45fd6886761acdd347955746ad84bc033201c592e902b922fe8fc85d1fb9",
+    "deck.csv": "92b92bac9f9163ecff933b3dc39294d2cc154c8684f3c8497877661419ebc59d",
+    "policy_runtime.py": "fe7182a588962fd9c5e07e9e62433beaa1c5b3fa047bb8170e22435e4f93e997"
+  }
+}

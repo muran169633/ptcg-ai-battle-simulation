@@ -1,0 +1,204 @@
+{
+  "decks": [
+    {
+      "date_counts": {
+        "2026-07-29": 1294,
+        "2026-07-30": 1542,
+        "2026-07-31": 2061,
+        "2026-08-01": 1954,
+        "2026-08-02": 1693,
+        "2026-08-03": 915,
+        "2026-08-04": 765,
+        "2026-08-05": 547,
+        "2026-08-06": 576,
+        "2026-08-07": 484,
+        "2026-08-08": 442,
+        "2026-08-09": 373,
+        "2026-08-10": 316
+      },
+      "decision_rows": 1247026,
+      "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+      "draws": 4,
+      "episodes": 12962,
+      "losses": 6296,
+      "seat_counts": {
+        "0": 6429,
+        "1": 6533
+      },
+      "split_stats": {
+        "test": {
+          "profiled": false
+        },
+        "train": {
+          "date_counts": {
+            "2026-07-29": 1294,
+            "2026-07-30": 1542,
+            "2026-07-31": 2061,
+            "2026-08-01": 1954,
+            "2026-08-02": 1693,
+            "2026-08-03": 915,
+            "2026-08-04": 765,
+            "2026-08-05": 547,
+            "2026-08-06": 576,
+            "2026-08-07": 484,
+            "2026-08-08": 442,
+            "2026-08-09": 373
+          },
+          "draws": 4,
+          "episodes": 12646,
+          "losses": 6140,
+          "team_count": 32,
+          "team_counts": {
+            "213tubo": 216,
+            "@kdcyberdude": 989,
+            "AlphaStarmie": 58,
+            "Brahim": 20,
+            "Dipam Chakraborty": 176,
+            "HCRL": 6,
+            "JB Bryant": 258,
+            "Jonathan Coletti": 65,
+            "Kh0a": 95,
+            "LiamK": 1082,
+            "Luca": 715,
+            "LumenLiquidity": 23,
+            "M Sato": 194,
+            "Meghana284": 1,
+            "NguyenThanhNhan": 617,
+            "ONE PIECE": 39,
+            "Oshbocker": 119,
+            "Raihan Ramadistra": 1883,
+            "Rmy": 216,
+            "Sixth Sense": 1192,
+            "Team KASA.": 4,
+            "Yopta": 95,
+            "hatry": 189,
+            "insuperabilehart": 559,
+            "kanno": 55,
+            "matsurih": 265,
+            "palsystem": 125,
+            "sadwat": 499,
+            "szlachetny snieg": 986,
+            "vvs": 617,
+            "やる気元気ミワハルキ": 1224,
+            "李秉叡（ntumlnoob）": 64
+          },
+          "win_rate": 0.5141546734145184,
+          "wins": 6502
+        },
+        "valid": {
+          "date_counts": {
+            "2026-08-10": 316
+          },
+          "draws": 0,
+          "episodes": 316,
+          "losses": 156,
+          "team_count": 11,
+          "team_counts": {
+            "@kdcyberdude": 28,
+            "AlphaStarmie": 25,
+            "JB Bryant": 27,
+            "Luca": 8,
+            "NguyenThanhNhan": 9,
+            "Oshbocker": 29,
+            "Raihan Ramadistra": 86,
+            "Sixth Sense": 4,
+            "Yopta": 22,
+            "hatry": 58,
+            "szlachetny snieg": 20
+          },
+          "win_rate": 0.5063291139240507,
+          "wins": 160
+        }
+      },
+      "team_counts": {
+        "213tubo": 216,
+        "@kdcyberdude": 1017,
+        "AlphaStarmie": 83,
+        "Brahim": 20,
+        "Dipam Chakraborty": 176,
+        "HCRL": 6,
+        "JB Bryant": 285,
+        "Jonathan Coletti": 65,
+        "Kh0a": 95,
+        "LiamK": 1082,
+        "Luca": 723,
+        "LumenLiquidity": 23,
+        "M Sato": 194,
+        "Meghana284": 1,
+        "NguyenThanhNhan": 626,
+        "ONE PIECE": 39,
+        "Oshbocker": 148,
+        "Raihan Ramadistra": 1969,
+        "Rmy": 216,
+        "Sixth Sense": 1196,
+        "Team KASA.": 4,
+        "Yopta": 117,
+        "hatry": 247,
+        "insuperabilehart": 559,
+        "kanno": 55,
+        "matsurih": 265,
+        "palsystem": 125,
+        "sadwat": 499,
+        "szlachetny snieg": 1006,
+        "vvs": 617,
+        "やる気元気ミワハルキ": 1224,
+        "李秉叡（ntumlnoob）": 64
+      },
+      "win_rate": 0.5139638944607313,
+      "wins": 6662
+    }
+  ],
+  "deduplication_key": [
+    "dataset_date",
+    "episode_id",
+    "seat"
+  ],
+  "min_episodes": 1,
+  "profiled_splits": [
+    "train",
+    "valid"
+  ],
+  "schema_version": "ptcg-bc-exact-deck-profile-v1",
+  "sealed_splits": [
+    "test"
+  ],
+  "source": {
+    "bc_schema_version": "ptcg-bc-visible-decisions-v1",
+    "bytes": 338568791,
+    "jsonl_members": 53,
+    "manifest_decision_rows": 1277230,
+    "manifest_decision_rows_match": null,
+    "manifest_decision_rows_match_note": "Not compared because manifest decisions cover all splits while this profile opened only train, valid; sealed splits: test.",
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/retrain_top50_recent14_20260812_v1/marnie_exact_time_v1.zip",
+    "profiled_jsonl_members": 51,
+    "sealed_jsonl_members": 2
+  },
+  "split_date_counts": {
+    "train": {
+      "2026-07-29": 1294,
+      "2026-07-30": 1542,
+      "2026-07-31": 2061,
+      "2026-08-01": 1954,
+      "2026-08-02": 1693,
+      "2026-08-03": 915,
+      "2026-08-04": 765,
+      "2026-08-05": 547,
+      "2026-08-06": 576,
+      "2026-08-07": 484,
+      "2026-08-08": 442,
+      "2026-08-09": 373
+    },
+    "valid": {
+      "2026-08-10": 316
+    }
+  },
+  "statistics": {
+    "decision_rows": 1247026,
+    "exact_decks": 1,
+    "filtered_exact_decks": 0,
+    "selected_decision_rows": 1247026,
+    "selected_episode_seats": 12962,
+    "selected_exact_decks": 1,
+    "unique_episode_seats": 12962
+  }
+}

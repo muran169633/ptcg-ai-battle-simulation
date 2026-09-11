@@ -1,0 +1,147 @@
+{
+  "schema_version": "ptcg-bc-submission-package-v1",
+  "source_checkpoint": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/artifacts/gold_strict_20260813_v1/marnie_bc_hash90_big256x8_e12_seed2026081322/best.pt",
+  "source_checkpoint_sha256": "69cb52c57c47d425b3d7a24c829b58de0f3b81f1db916fd4c791b6a48ea6729d",
+  "source_epoch": 7,
+  "source_valid_metrics": {
+    "rows": 129641,
+    "seconds": 57.62491250038147,
+    "exact_action_set_accuracy": 0.7841269351516881,
+    "fixed_cardinality_accuracy": 0.8007255331167914,
+    "flexible_cardinality_accuracy": 0.6690731110431325,
+    "count_accuracy": 0.9861232171920921,
+    "nonempty_top1_accuracy": 0.7985291721939073,
+    "value_win_accuracy": 0.7589651422003841,
+    "by_context": {
+      "0": {
+        "rows": 56829,
+        "exact_accuracy": 0.7227647855848246
+      },
+      "7": {
+        "rows": 18053,
+        "exact_accuracy": 0.7259735224062482
+      },
+      "13": {
+        "rows": 8098,
+        "exact_accuracy": 0.8188441590516177
+      },
+      "16": {
+        "rows": 8098,
+        "exact_accuracy": 0.8621881946159545
+      },
+      "40": {
+        "rows": 7616,
+        "exact_accuracy": 0.991202731092437
+      },
+      "21": {
+        "rows": 7039,
+        "exact_accuracy": 0.9295354453757636
+      },
+      "15": {
+        "rows": 4684,
+        "exact_accuracy": 0.8204526046114432
+      },
+      "4": {
+        "rows": 2932,
+        "exact_accuracy": 0.8854024556616644
+      },
+      "43": {
+        "rows": 2845,
+        "exact_accuracy": 0.9701230228471002
+      },
+      "22": {
+        "rows": 2488,
+        "exact_accuracy": 0.4815112540192926
+      },
+      "3": {
+        "rows": 2225,
+        "exact_accuracy": 0.8278651685393258
+      },
+      "30": {
+        "rows": 2131,
+        "exact_accuracy": 0.8887846081651807
+      },
+      "5": {
+        "rows": 1685,
+        "exact_accuracy": 0.6937685459940652
+      },
+      "1": {
+        "rows": 1340,
+        "exact_accuracy": 0.9567164179104478
+      },
+      "37": {
+        "rows": 1074,
+        "exact_accuracy": 0.9487895716945997
+      },
+      "41": {
+        "rows": 656,
+        "exact_accuracy": 1.0
+      },
+      "2": {
+        "rows": 601,
+        "exact_accuracy": 0.7121464226289518
+      },
+      "34": {
+        "rows": 416,
+        "exact_accuracy": 1.0
+      },
+      "38": {
+        "rows": 325,
+        "exact_accuracy": 0.9938461538461538
+      },
+      "8": {
+        "rows": 252,
+        "exact_accuracy": 0.4087301587301587
+      },
+      "27": {
+        "rows": 237,
+        "exact_accuracy": 0.9789029535864979
+      },
+      "9": {
+        "rows": 17,
+        "exact_accuracy": 0.5294117647058824
+      }
+    }
+  },
+  "deck": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/gold8_recent7_20260808/decks/c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af.csv",
+  "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+  "deck_sha256": "92b92bac9f9163ecff933b3dc39294d2cc154c8684f3c8497877661419ebc59d",
+  "template_dir": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/submissions/ptcg_bc_orbit_v5",
+  "output_dir": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/submissions/ptcg_bc_marnie_big256x8_seed1322_20260813",
+  "archive": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/submissions/ptcg_bc_marnie_big256x8_seed1322_20260813.tar.gz",
+  "archive_sha256": "2cb9e00cbf7b5ee1eb2c0d17c86ada0a5c290ea4423360fa6b497c0915014b00",
+  "archive_bytes": 40876053,
+  "archive_determinism": {
+    "gzip_mtime": 0,
+    "tar_mtime": 0,
+    "uid": 0,
+    "gid": 0,
+    "mode": "0644",
+    "member_order": [
+      "main.py",
+      "deck.csv",
+      "model.pt",
+      "policy_runtime.py"
+    ]
+  },
+  "members": {
+    "main.py": {
+      "bytes": 6121,
+      "sha256": "c788c03f11577d4a20bc4ad2edfa32e38d257910293d8e0fda3623dcf3498464"
+    },
+    "deck.csv": {
+      "bytes": 252,
+      "sha256": "92b92bac9f9163ecff933b3dc39294d2cc154c8684f3c8497877661419ebc59d"
+    },
+    "model.pt": {
+      "bytes": 44164979,
+      "sha256": "53a11bb63003a293ee07856e777139732b358dfb2cc09bbac88710e02de06e48"
+    },
+    "policy_runtime.py": {
+      "bytes": 55450,
+      "sha256": "be5b6205e72c628c963c85e566b134be7c08fb20e39dfa9a687c1cef52d49b47"
+    }
+  },
+  "model_tensor_count": 128,
+  "model_tensors_equal_source": true
+}

@@ -1,0 +1,2024 @@
+{
+  "decks": [
+    {
+      "date_counts": {
+        "2026-08-11": 581
+      },
+      "decision_rows": 43894,
+      "deck_hash": "dd63244cb42c5002bb2c7e415e8224e3dc8440ee02743f0db22d9d44594a72cc",
+      "draws": 0,
+      "episodes": 581,
+      "losses": 263,
+      "seat_counts": {
+        "0": 287,
+        "1": 294
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 581
+          },
+          "draws": 0,
+          "episodes": 581,
+          "losses": 263,
+          "team_count": 13,
+          "team_counts": {
+            "Brahim": 24,
+            "HCRL": 52,
+            "JB Bryant": 47,
+            "LiamK": 19,
+            "LumenLiquidity": 25,
+            "ONE PIECE": 14,
+            "Rmy": 70,
+            "Yopta": 101,
+            "insuperabilehart": 54,
+            "kwa": 42,
+            "matsurih": 53,
+            "sadwat": 44,
+            "szlachetny snieg": 36
+          },
+          "win_rate": 0.5473321858864028,
+          "wins": 318
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Brahim": 24,
+        "HCRL": 52,
+        "JB Bryant": 47,
+        "LiamK": 19,
+        "LumenLiquidity": 25,
+        "ONE PIECE": 14,
+        "Rmy": 70,
+        "Yopta": 101,
+        "insuperabilehart": 54,
+        "kwa": 42,
+        "matsurih": 53,
+        "sadwat": 44,
+        "szlachetny snieg": 36
+      },
+      "win_rate": 0.5473321858864028,
+      "wins": 318
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 425
+      },
+      "decision_rows": 47683,
+      "deck_hash": "07bedfffbfad6ecb31733acc54c8110bb1934d8b1dc98bd9c4d37f6ba5c5e725",
+      "draws": 0,
+      "episodes": 425,
+      "losses": 160,
+      "seat_counts": {
+        "0": 195,
+        "1": 230
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 425
+          },
+          "draws": 0,
+          "episodes": 425,
+          "losses": 160,
+          "team_count": 9,
+          "team_counts": {
+            "213tubo": 2,
+            "JB Bryant": 43,
+            "Kh0a": 168,
+            "LiamK": 41,
+            "Raihan Ramadistra": 68,
+            "flg": 28,
+            "youtube.com/@BigBugginnings": 3,
+            "やる気元気ミワハルキ": 71,
+            "熱異常": 1
+          },
+          "win_rate": 0.6235294117647059,
+          "wins": 265
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "213tubo": 2,
+        "JB Bryant": 43,
+        "Kh0a": 168,
+        "LiamK": 41,
+        "Raihan Ramadistra": 68,
+        "flg": 28,
+        "youtube.com/@BigBugginnings": 3,
+        "やる気元気ミワハルキ": 71,
+        "熱異常": 1
+      },
+      "win_rate": 0.6235294117647059,
+      "wins": 265
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 389
+      },
+      "decision_rows": 26017,
+      "deck_hash": "77a53ffc32f89b22562f6b4ac0b8cbde9e8210923cd0ef512551b8a8eb9003f8",
+      "draws": 0,
+      "episodes": 389,
+      "losses": 145,
+      "seat_counts": {
+        "0": 213,
+        "1": 176
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 389
+          },
+          "draws": 0,
+          "episodes": 389,
+          "losses": 145,
+          "team_count": 8,
+          "team_counts": {
+            "Dipam Chakraborty": 40,
+            "HCRL": 50,
+            "LiamK": 28,
+            "M Sato": 30,
+            "Majkel1337": 33,
+            "ONE PIECE": 19,
+            "Oshbocker": 29,
+            "李秉叡（ntumlnoob）": 160
+          },
+          "win_rate": 0.6272493573264781,
+          "wins": 244
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Dipam Chakraborty": 40,
+        "HCRL": 50,
+        "LiamK": 28,
+        "M Sato": 30,
+        "Majkel1337": 33,
+        "ONE PIECE": 19,
+        "Oshbocker": 29,
+        "李秉叡（ntumlnoob）": 160
+      },
+      "win_rate": 0.6272493573264781,
+      "wins": 244
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 322
+      },
+      "decision_rows": 30204,
+      "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+      "draws": 0,
+      "episodes": 322,
+      "losses": 142,
+      "seat_counts": {
+        "0": 169,
+        "1": 153
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 322
+          },
+          "draws": 0,
+          "episodes": 322,
+          "losses": 142,
+          "team_count": 10,
+          "team_counts": {
+            "@kdcyberdude": 29,
+            "AlphaStarmie": 23,
+            "Luca": 24,
+            "NguyenThanhNhan": 74,
+            "Raihan Ramadistra": 21,
+            "Yopta": 13,
+            "hatry": 66,
+            "matsurih": 63,
+            "szlachetny snieg": 5,
+            "やる気元気ミワハルキ": 4
+          },
+          "win_rate": 0.5590062111801242,
+          "wins": 180
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "@kdcyberdude": 29,
+        "AlphaStarmie": 23,
+        "Luca": 24,
+        "NguyenThanhNhan": 74,
+        "Raihan Ramadistra": 21,
+        "Yopta": 13,
+        "hatry": 66,
+        "matsurih": 63,
+        "szlachetny snieg": 5,
+        "やる気元気ミワハルキ": 4
+      },
+      "win_rate": 0.5590062111801242,
+      "wins": 180
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 164
+      },
+      "decision_rows": 12169,
+      "deck_hash": "59c6fdb878b672309da0db1318640029802b1afdcfd4e23b1dcab3d3a96d61fc",
+      "draws": 0,
+      "episodes": 164,
+      "losses": 66,
+      "seat_counts": {
+        "0": 78,
+        "1": 86
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 164
+          },
+          "draws": 0,
+          "episodes": 164,
+          "losses": 66,
+          "team_count": 3,
+          "team_counts": {
+            "Jonathan Coletti": 80,
+            "THIRD PTCG Club": 31,
+            "palsystem": 53
+          },
+          "win_rate": 0.5975609756097561,
+          "wins": 98
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Jonathan Coletti": 80,
+        "THIRD PTCG Club": 31,
+        "palsystem": 53
+      },
+      "win_rate": 0.5975609756097561,
+      "wins": 98
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 142
+      },
+      "decision_rows": 16229,
+      "deck_hash": "39b50b5cba308ad1768346cd0e9dd1b75e7d87539c3ee0b455505bc945fe5bb6",
+      "draws": 0,
+      "episodes": 142,
+      "losses": 43,
+      "seat_counts": {
+        "0": 74,
+        "1": 68
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 142
+          },
+          "draws": 0,
+          "episodes": 142,
+          "losses": 43,
+          "team_count": 1,
+          "team_counts": {
+            "Sixth Sense": 142
+          },
+          "win_rate": 0.6971830985915493,
+          "wins": 99
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Sixth Sense": 142
+      },
+      "win_rate": 0.6971830985915493,
+      "wins": 99
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 120
+      },
+      "decision_rows": 8596,
+      "deck_hash": "3f4515092dc59df397f365a9b79c7cf0c1cb73b9aa38bc47c1b18e9df4c2fdaf",
+      "draws": 0,
+      "episodes": 120,
+      "losses": 63,
+      "seat_counts": {
+        "0": 58,
+        "1": 62
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 120
+          },
+          "draws": 0,
+          "episodes": 120,
+          "losses": 63,
+          "team_count": 6,
+          "team_counts": {
+            "AlphaStarmie": 30,
+            "Jonathan Coletti": 1,
+            "M Sato": 33,
+            "palsystem": 7,
+            "vvs": 48,
+            "哈基米南北绿豆": 1
+          },
+          "win_rate": 0.475,
+          "wins": 57
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "AlphaStarmie": 30,
+        "Jonathan Coletti": 1,
+        "M Sato": 33,
+        "palsystem": 7,
+        "vvs": 48,
+        "哈基米南北绿豆": 1
+      },
+      "win_rate": 0.475,
+      "wins": 57
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 94
+      },
+      "decision_rows": 6129,
+      "deck_hash": "310ede704da1adc09e09efc2b3e4f96cd2201abdbcb3f51ada245472cac2742a",
+      "draws": 0,
+      "episodes": 94,
+      "losses": 40,
+      "seat_counts": {
+        "0": 47,
+        "1": 47
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 94
+          },
+          "draws": 0,
+          "episodes": 94,
+          "losses": 40,
+          "team_count": 1,
+          "team_counts": {
+            "James Cox & Henry Chao": 94
+          },
+          "win_rate": 0.574468085106383,
+          "wins": 54
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "James Cox & Henry Chao": 94
+      },
+      "win_rate": 0.574468085106383,
+      "wins": 54
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 88
+      },
+      "decision_rows": 8737,
+      "deck_hash": "e2e03fe8ef9592b1204c159a7725da3945675fa872b1e18baca550560503a78e",
+      "draws": 0,
+      "episodes": 88,
+      "losses": 39,
+      "seat_counts": {
+        "0": 44,
+        "1": 44
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 88
+          },
+          "draws": 0,
+          "episodes": 88,
+          "losses": 39,
+          "team_count": 3,
+          "team_counts": {
+            "213tubo": 4,
+            "JZ": 33,
+            "哈基米南北绿豆": 51
+          },
+          "win_rate": 0.5568181818181818,
+          "wins": 49
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "213tubo": 4,
+        "JZ": 33,
+        "哈基米南北绿豆": 51
+      },
+      "win_rate": 0.5568181818181818,
+      "wins": 49
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 76
+      },
+      "decision_rows": 6165,
+      "deck_hash": "01501d644249c08144b169d9af115042260d89f0990e04b81c5aeadfcb7d7b84",
+      "draws": 0,
+      "episodes": 76,
+      "losses": 42,
+      "seat_counts": {
+        "0": 34,
+        "1": 42
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 76
+          },
+          "draws": 0,
+          "episodes": 76,
+          "losses": 42,
+          "team_count": 2,
+          "team_counts": {
+            "Team KASA.": 22,
+            "kanno": 54
+          },
+          "win_rate": 0.4473684210526316,
+          "wins": 34
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Team KASA.": 22,
+        "kanno": 54
+      },
+      "win_rate": 0.4473684210526316,
+      "wins": 34
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 61
+      },
+      "decision_rows": 4534,
+      "deck_hash": "415af0a5541c9c046b4a80abc365dbf91fc693b8546e49796fec6463a181c53d",
+      "draws": 0,
+      "episodes": 61,
+      "losses": 31,
+      "seat_counts": {
+        "0": 29,
+        "1": 32
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 61
+          },
+          "draws": 0,
+          "episodes": 61,
+          "losses": 31,
+          "team_count": 1,
+          "team_counts": {
+            "熱異常": 61
+          },
+          "win_rate": 0.4918032786885246,
+          "wins": 30
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "熱異常": 61
+      },
+      "win_rate": 0.4918032786885246,
+      "wins": 30
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 61
+      },
+      "decision_rows": 4231,
+      "deck_hash": "4fde3b2a53102d072fe13ee14a0679dbf11b4d4b62e15ff9646e910a27df23d2",
+      "draws": 0,
+      "episodes": 61,
+      "losses": 29,
+      "seat_counts": {
+        "0": 34,
+        "1": 27
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 61
+          },
+          "draws": 0,
+          "episodes": 61,
+          "losses": 29,
+          "team_count": 1,
+          "team_counts": {
+            "Redi_": 61
+          },
+          "win_rate": 0.5245901639344263,
+          "wins": 32
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Redi_": 61
+      },
+      "win_rate": 0.5245901639344263,
+      "wins": 32
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 61
+      },
+      "decision_rows": 6558,
+      "deck_hash": "674ec3100a65337e91ee11325b087e25925f312d28c8ec5a49969220d6b9d5b8",
+      "draws": 0,
+      "episodes": 61,
+      "losses": 19,
+      "seat_counts": {
+        "0": 29,
+        "1": 32
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 61
+          },
+          "draws": 0,
+          "episodes": 61,
+          "losses": 19,
+          "team_count": 1,
+          "team_counts": {
+            "Sixth Sense": 61
+          },
+          "win_rate": 0.6885245901639344,
+          "wins": 42
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Sixth Sense": 61
+      },
+      "win_rate": 0.6885245901639344,
+      "wins": 42
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 56
+      },
+      "decision_rows": 4196,
+      "deck_hash": "e8e9908e4943584bcbf4d54c91feda6ccfd5a39c0a0cf7d30e5db4a5de7ebd7b",
+      "draws": 0,
+      "episodes": 56,
+      "losses": 29,
+      "seat_counts": {
+        "0": 28,
+        "1": 28
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 56
+          },
+          "draws": 0,
+          "episodes": 56,
+          "losses": 29,
+          "team_count": 1,
+          "team_counts": {
+            "PP kawada": 56
+          },
+          "win_rate": 0.48214285714285715,
+          "wins": 27
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "PP kawada": 56
+      },
+      "win_rate": 0.48214285714285715,
+      "wins": 27
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 55
+      },
+      "decision_rows": 3872,
+      "deck_hash": "0a6ca2ca3e72f1d6c0860cb653f16b05c4ba9b8d7774d5669c608e43f4c154f2",
+      "draws": 0,
+      "episodes": 55,
+      "losses": 26,
+      "seat_counts": {
+        "0": 27,
+        "1": 28
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 55
+          },
+          "draws": 0,
+          "episodes": 55,
+          "losses": 26,
+          "team_count": 2,
+          "team_counts": {
+            "Oshbocker": 36,
+            "palsystem": 19
+          },
+          "win_rate": 0.5272727272727272,
+          "wins": 29
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Oshbocker": 36,
+        "palsystem": 19
+      },
+      "win_rate": 0.5272727272727272,
+      "wins": 29
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 49
+      },
+      "decision_rows": 3148,
+      "deck_hash": "bc07a39f2fb9680f3ebf58c8ce09c61b56a13bd5386f122bda50f8207b7e4ada",
+      "draws": 0,
+      "episodes": 49,
+      "losses": 20,
+      "seat_counts": {
+        "0": 27,
+        "1": 22
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 49
+          },
+          "draws": 0,
+          "episodes": 49,
+          "losses": 20,
+          "team_count": 1,
+          "team_counts": {
+            "kwa": 49
+          },
+          "win_rate": 0.5918367346938775,
+          "wins": 29
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "kwa": 49
+      },
+      "win_rate": 0.5918367346938775,
+      "wins": 29
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 48
+      },
+      "decision_rows": 3214,
+      "deck_hash": "7e39843702037f34ff18a5ecee55840691b11d9aaf0ea0245f6669ffc349621a",
+      "draws": 0,
+      "episodes": 48,
+      "losses": 13,
+      "seat_counts": {
+        "0": 24,
+        "1": 24
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 48
+          },
+          "draws": 0,
+          "episodes": 48,
+          "losses": 13,
+          "team_count": 1,
+          "team_counts": {
+            "Dipam Chakraborty": 48
+          },
+          "win_rate": 0.7291666666666666,
+          "wins": 35
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Dipam Chakraborty": 48
+      },
+      "win_rate": 0.7291666666666666,
+      "wins": 35
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 47
+      },
+      "decision_rows": 2963,
+      "deck_hash": "57629a8665ff9c51705dcc5add30bba0dc0ef56a182b00f556b834f8f14b3749",
+      "draws": 0,
+      "episodes": 47,
+      "losses": 20,
+      "seat_counts": {
+        "0": 24,
+        "1": 23
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 47
+          },
+          "draws": 0,
+          "episodes": 47,
+          "losses": 20,
+          "team_count": 1,
+          "team_counts": {
+            "やる気元気ミワハルキ": 47
+          },
+          "win_rate": 0.574468085106383,
+          "wins": 27
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "やる気元気ミワハルキ": 47
+      },
+      "win_rate": 0.574468085106383,
+      "wins": 27
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 45
+      },
+      "decision_rows": 5015,
+      "deck_hash": "04d8c62a21a6ccdc9db26cbba19952d729cae087e3627b6fab189467218fbc87",
+      "draws": 0,
+      "episodes": 45,
+      "losses": 14,
+      "seat_counts": {
+        "0": 19,
+        "1": 26
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 45
+          },
+          "draws": 0,
+          "episodes": 45,
+          "losses": 14,
+          "team_count": 1,
+          "team_counts": {
+            "Dipam Chakraborty": 45
+          },
+          "win_rate": 0.6888888888888889,
+          "wins": 31
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Dipam Chakraborty": 45
+      },
+      "win_rate": 0.6888888888888889,
+      "wins": 31
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 44
+      },
+      "decision_rows": 2900,
+      "deck_hash": "5215eb3eb285a44731d7b51d8d6b07661bd5b303c91dd693acce3a7b2778c493",
+      "draws": 0,
+      "episodes": 44,
+      "losses": 20,
+      "seat_counts": {
+        "0": 18,
+        "1": 26
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 44
+          },
+          "draws": 0,
+          "episodes": 44,
+          "losses": 20,
+          "team_count": 1,
+          "team_counts": {
+            "e-toppo + kurupical": 44
+          },
+          "win_rate": 0.5454545454545454,
+          "wins": 24
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "e-toppo + kurupical": 44
+      },
+      "win_rate": 0.5454545454545454,
+      "wins": 24
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 43
+      },
+      "decision_rows": 5224,
+      "deck_hash": "3edb78cf7f3c83fbf282c4f74832c5b0668a0b7f2f76f6dcbbe01bf15b211d92",
+      "draws": 0,
+      "episodes": 43,
+      "losses": 16,
+      "seat_counts": {
+        "0": 22,
+        "1": 21
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 43
+          },
+          "draws": 0,
+          "episodes": 43,
+          "losses": 16,
+          "team_count": 1,
+          "team_counts": {
+            "e-toppo + kurupical": 43
+          },
+          "win_rate": 0.627906976744186,
+          "wins": 27
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "e-toppo + kurupical": 43
+      },
+      "win_rate": 0.627906976744186,
+      "wins": 27
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 42
+      },
+      "decision_rows": 4505,
+      "deck_hash": "25393c128f3bb0b662a02e7c0aa7564f6ce87e8865cd09ee551082305272587d",
+      "draws": 0,
+      "episodes": 42,
+      "losses": 12,
+      "seat_counts": {
+        "0": 23,
+        "1": 19
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 42
+          },
+          "draws": 0,
+          "episodes": 42,
+          "losses": 12,
+          "team_count": 1,
+          "team_counts": {
+            "LumenLiquidity": 42
+          },
+          "win_rate": 0.7142857142857143,
+          "wins": 30
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "LumenLiquidity": 42
+      },
+      "win_rate": 0.7142857142857143,
+      "wins": 30
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 41
+      },
+      "decision_rows": 4270,
+      "deck_hash": "14399e66b88b8ac7f19dd45125f8780e758bfa1be9680ef7d6941e98c639d4c1",
+      "draws": 0,
+      "episodes": 41,
+      "losses": 16,
+      "seat_counts": {
+        "0": 18,
+        "1": 23
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 41
+          },
+          "draws": 0,
+          "episodes": 41,
+          "losses": 16,
+          "team_count": 1,
+          "team_counts": {
+            "Dipam Chakraborty": 41
+          },
+          "win_rate": 0.6097560975609756,
+          "wins": 25
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Dipam Chakraborty": 41
+      },
+      "win_rate": 0.6097560975609756,
+      "wins": 25
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 40
+      },
+      "decision_rows": 2208,
+      "deck_hash": "67cf83ea7e092595551b8cd9668be37903de3beb362b384f21c07b66d0549ff9",
+      "draws": 0,
+      "episodes": 40,
+      "losses": 18,
+      "seat_counts": {
+        "0": 25,
+        "1": 15
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 40
+          },
+          "draws": 0,
+          "episodes": 40,
+          "losses": 18,
+          "team_count": 1,
+          "team_counts": {
+            "da da": 40
+          },
+          "win_rate": 0.55,
+          "wins": 22
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "da da": 40
+      },
+      "win_rate": 0.55,
+      "wins": 22
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 39
+      },
+      "decision_rows": 4269,
+      "deck_hash": "943174ae3253c8246214bfa455dee6acab63e06b2a4206c44764802a0d9a810d",
+      "draws": 0,
+      "episodes": 39,
+      "losses": 12,
+      "seat_counts": {
+        "0": 19,
+        "1": 20
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 39
+          },
+          "draws": 0,
+          "episodes": 39,
+          "losses": 12,
+          "team_count": 1,
+          "team_counts": {
+            "Sixth Sense": 39
+          },
+          "win_rate": 0.6923076923076923,
+          "wins": 27
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Sixth Sense": 39
+      },
+      "win_rate": 0.6923076923076923,
+      "wins": 27
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 38
+      },
+      "decision_rows": 2743,
+      "deck_hash": "b529ad012ed92882c28ff4cabc81ba4890546431d6e294ade2edca9c4ce8839e",
+      "draws": 0,
+      "episodes": 38,
+      "losses": 15,
+      "seat_counts": {
+        "0": 23,
+        "1": 15
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 38
+          },
+          "draws": 0,
+          "episodes": 38,
+          "losses": 15,
+          "team_count": 1,
+          "team_counts": {
+            "da da": 38
+          },
+          "win_rate": 0.6052631578947368,
+          "wins": 23
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "da da": 38
+      },
+      "win_rate": 0.6052631578947368,
+      "wins": 23
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 37
+      },
+      "decision_rows": 3007,
+      "deck_hash": "8163944c662633424842c3fdb5a19c941a0984e6eb3938281d246e475c00e7a0",
+      "draws": 0,
+      "episodes": 37,
+      "losses": 14,
+      "seat_counts": {
+        "0": 19,
+        "1": 18
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 37
+          },
+          "draws": 0,
+          "episodes": 37,
+          "losses": 14,
+          "team_count": 1,
+          "team_counts": {
+            "Dipam Chakraborty": 37
+          },
+          "win_rate": 0.6216216216216216,
+          "wins": 23
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Dipam Chakraborty": 37
+      },
+      "win_rate": 0.6216216216216216,
+      "wins": 23
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 31
+      },
+      "decision_rows": 3648,
+      "deck_hash": "5a43ad295ed2f2f9175e6086ca83a7ed62237f2cc2251d9d86906f6744200e5b",
+      "draws": 0,
+      "episodes": 31,
+      "losses": 17,
+      "seat_counts": {
+        "0": 18,
+        "1": 13
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 31
+          },
+          "draws": 0,
+          "episodes": 31,
+          "losses": 17,
+          "team_count": 1,
+          "team_counts": {
+            "e-toppo + kurupical": 31
+          },
+          "win_rate": 0.45161290322580644,
+          "wins": 14
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "e-toppo + kurupical": 31
+      },
+      "win_rate": 0.45161290322580644,
+      "wins": 14
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 30
+      },
+      "decision_rows": 3038,
+      "deck_hash": "54a7c05beef5724806c536df2e7ef63ac6f7b928be9e10bcb44d5019db82725b",
+      "draws": 0,
+      "episodes": 30,
+      "losses": 12,
+      "seat_counts": {
+        "0": 14,
+        "1": 16
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 30
+          },
+          "draws": 0,
+          "episodes": 30,
+          "losses": 12,
+          "team_count": 1,
+          "team_counts": {
+            "THIRD PTCG Club": 30
+          },
+          "win_rate": 0.6,
+          "wins": 18
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "THIRD PTCG Club": 30
+      },
+      "win_rate": 0.6,
+      "wins": 18
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 30
+      },
+      "decision_rows": 2171,
+      "deck_hash": "df6f7443719675711c2dcead3559087de996f3b8c43192d55ebfe6182e43cb7c",
+      "draws": 0,
+      "episodes": 30,
+      "losses": 15,
+      "seat_counts": {
+        "0": 16,
+        "1": 14
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 30
+          },
+          "draws": 0,
+          "episodes": 30,
+          "losses": 15,
+          "team_count": 3,
+          "team_counts": {
+            "LiamK": 1,
+            "LumenLiquidity": 8,
+            "Majkel1337": 21
+          },
+          "win_rate": 0.5,
+          "wins": 15
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "LiamK": 1,
+        "LumenLiquidity": 8,
+        "Majkel1337": 21
+      },
+      "win_rate": 0.5,
+      "wins": 15
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 29
+      },
+      "decision_rows": 2094,
+      "deck_hash": "68c95eacc12a6aed39544ecf7f93e20fc59799e398e3d1ccc612cfb8d7e58127",
+      "draws": 0,
+      "episodes": 29,
+      "losses": 15,
+      "seat_counts": {
+        "0": 14,
+        "1": 15
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 29
+          },
+          "draws": 0,
+          "episodes": 29,
+          "losses": 15,
+          "team_count": 1,
+          "team_counts": {
+            "EliKal": 29
+          },
+          "win_rate": 0.4827586206896552,
+          "wins": 14
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "EliKal": 29
+      },
+      "win_rate": 0.4827586206896552,
+      "wins": 14
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 25
+      },
+      "decision_rows": 1395,
+      "deck_hash": "03822cc73f7886a42fbfe086d205d4a37f24fc65c443ce1574363bbf200542bd",
+      "draws": 0,
+      "episodes": 25,
+      "losses": 14,
+      "seat_counts": {
+        "0": 14,
+        "1": 11
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 25
+          },
+          "draws": 0,
+          "episodes": 25,
+          "losses": 14,
+          "team_count": 1,
+          "team_counts": {
+            "sadwat": 25
+          },
+          "win_rate": 0.44,
+          "wins": 11
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "sadwat": 25
+      },
+      "win_rate": 0.44,
+      "wins": 11
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 21
+      },
+      "decision_rows": 1302,
+      "deck_hash": "d2eebe06c6ad0d4d6686dec0ea5b30c51dc3c415cecbd02f770ed23a2d65e088",
+      "draws": 0,
+      "episodes": 21,
+      "losses": 8,
+      "seat_counts": {
+        "0": 6,
+        "1": 15
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 21
+          },
+          "draws": 0,
+          "episodes": 21,
+          "losses": 8,
+          "team_count": 1,
+          "team_counts": {
+            "@kdcyberdude": 21
+          },
+          "win_rate": 0.6190476190476191,
+          "wins": 13
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "@kdcyberdude": 21
+      },
+      "win_rate": 0.6190476190476191,
+      "wins": 13
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 18
+      },
+      "decision_rows": 1362,
+      "deck_hash": "a33247e725d6e2054c0f6f2808c0fa8fa019bc9383e28528c2482457b348af3c",
+      "draws": 0,
+      "episodes": 18,
+      "losses": 9,
+      "seat_counts": {
+        "0": 9,
+        "1": 9
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 18
+          },
+          "draws": 0,
+          "episodes": 18,
+          "losses": 9,
+          "team_count": 1,
+          "team_counts": {
+            "flg": 18
+          },
+          "win_rate": 0.5,
+          "wins": 9
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "flg": 18
+      },
+      "win_rate": 0.5,
+      "wins": 9
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 16
+      },
+      "decision_rows": 1083,
+      "deck_hash": "7f65def4acdea2886115b39d172370e5b8daa409c432b5f4b5e993a2e5b9e08f",
+      "draws": 0,
+      "episodes": 16,
+      "losses": 3,
+      "seat_counts": {
+        "0": 7,
+        "1": 9
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 16
+          },
+          "draws": 0,
+          "episodes": 16,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "やる気元気ミワハルキ": 16
+          },
+          "win_rate": 0.8125,
+          "wins": 13
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "やる気元気ミワハルキ": 16
+      },
+      "win_rate": 0.8125,
+      "wins": 13
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 8
+      },
+      "decision_rows": 537,
+      "deck_hash": "ceb24736e91686b29472aff0991ae3301162fb59367090cfee78dc821184f448",
+      "draws": 0,
+      "episodes": 8,
+      "losses": 3,
+      "seat_counts": {
+        "0": 1,
+        "1": 7
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 8
+          },
+          "draws": 0,
+          "episodes": 8,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "kwa": 8
+          },
+          "win_rate": 0.625,
+          "wins": 5
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "kwa": 8
+      },
+      "win_rate": 0.625,
+      "wins": 5
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 7
+      },
+      "decision_rows": 464,
+      "deck_hash": "8359b175fe82268267729bd48b3e40b2b79a8a7b6d3658fee2d09626671cd37a",
+      "draws": 0,
+      "episodes": 7,
+      "losses": 3,
+      "seat_counts": {
+        "0": 3,
+        "1": 4
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 7
+          },
+          "draws": 0,
+          "episodes": 7,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "Jonathan Coletti": 7
+          },
+          "win_rate": 0.5714285714285714,
+          "wins": 4
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Jonathan Coletti": 7
+      },
+      "win_rate": 0.5714285714285714,
+      "wins": 4
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 7
+      },
+      "decision_rows": 463,
+      "deck_hash": "df3fbbfdb4687a056a521e59ccae8f3fd1ea6e658d8eb88e26b7af5f02c4f738",
+      "draws": 0,
+      "episodes": 7,
+      "losses": 4,
+      "seat_counts": {
+        "0": 3,
+        "1": 4
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 7
+          },
+          "draws": 0,
+          "episodes": 7,
+          "losses": 4,
+          "team_count": 1,
+          "team_counts": {
+            "EliKal": 7
+          },
+          "win_rate": 0.42857142857142855,
+          "wins": 3
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "EliKal": 7
+      },
+      "win_rate": 0.42857142857142855,
+      "wins": 3
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 5
+      },
+      "decision_rows": 421,
+      "deck_hash": "16fc66abdcea7bd55564ad290501107205a70e5023b3171f42007f6baf172757",
+      "draws": 0,
+      "episodes": 5,
+      "losses": 3,
+      "seat_counts": {
+        "0": 3,
+        "1": 2
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 5
+          },
+          "draws": 0,
+          "episodes": 5,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "KatR": 5
+          },
+          "win_rate": 0.4,
+          "wins": 2
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "KatR": 5
+      },
+      "win_rate": 0.4,
+      "wins": 2
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 4
+      },
+      "decision_rows": 168,
+      "deck_hash": "4bf59ca589c2d685d74e3535424c2dbe3c11389dffba59eddba4567be7e437df",
+      "draws": 0,
+      "episodes": 4,
+      "losses": 3,
+      "seat_counts": {
+        "0": 1,
+        "1": 3
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 4
+          },
+          "draws": 0,
+          "episodes": 4,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "EliKal": 4
+          },
+          "win_rate": 0.25,
+          "wins": 1
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "EliKal": 4
+      },
+      "win_rate": 0.25,
+      "wins": 1
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 4
+      },
+      "decision_rows": 271,
+      "deck_hash": "a4009d64f7ce99bf3a1cfa4173d211066c722d0ebe8a0c7507730d6f18b53242",
+      "draws": 0,
+      "episodes": 4,
+      "losses": 3,
+      "seat_counts": {
+        "1": 4
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 4
+          },
+          "draws": 0,
+          "episodes": 4,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "213tubo": 4
+          },
+          "win_rate": 0.25,
+          "wins": 1
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "213tubo": 4
+      },
+      "win_rate": 0.25,
+      "wins": 1
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 4
+      },
+      "decision_rows": 347,
+      "deck_hash": "c0c1ee4d85537f1f8776f27bc7b31de1378eba9140c9ecc21e4c9f669ecb97e1",
+      "draws": 0,
+      "episodes": 4,
+      "losses": 3,
+      "seat_counts": {
+        "0": 1,
+        "1": 3
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 4
+          },
+          "draws": 0,
+          "episodes": 4,
+          "losses": 3,
+          "team_count": 1,
+          "team_counts": {
+            "KatR": 4
+          },
+          "win_rate": 0.25,
+          "wins": 1
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "KatR": 4
+      },
+      "win_rate": 0.25,
+      "wins": 1
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 3
+      },
+      "decision_rows": 270,
+      "deck_hash": "5cdbd72e9557c80cc0469ff0dd7f5466b80f917df7240d17ec19d3e1448c2d3b",
+      "draws": 0,
+      "episodes": 3,
+      "losses": 2,
+      "seat_counts": {
+        "0": 2,
+        "1": 1
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 3
+          },
+          "draws": 0,
+          "episodes": 3,
+          "losses": 2,
+          "team_count": 1,
+          "team_counts": {
+            "Sixth Sense": 3
+          },
+          "win_rate": 0.3333333333333333,
+          "wins": 1
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "Sixth Sense": 3
+      },
+      "win_rate": 0.3333333333333333,
+      "wins": 1
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 3
+      },
+      "decision_rows": 213,
+      "deck_hash": "b02f8dbaa98c532629f51fb1abb96fa054b9bd8198aafbe1e00757695dff815a",
+      "draws": 0,
+      "episodes": 3,
+      "losses": 0,
+      "seat_counts": {
+        "0": 3
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 3
+          },
+          "draws": 0,
+          "episodes": 3,
+          "losses": 0,
+          "team_count": 1,
+          "team_counts": {
+            "ShumpeiNomura": 3
+          },
+          "win_rate": 1.0,
+          "wins": 3
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "ShumpeiNomura": 3
+      },
+      "win_rate": 1.0,
+      "wins": 3
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 3
+      },
+      "decision_rows": 156,
+      "deck_hash": "dbd496adedd35a4db85411529d873625f7ecd2b7cb5afb20f037c2dae2c141b7",
+      "draws": 0,
+      "episodes": 3,
+      "losses": 1,
+      "seat_counts": {
+        "0": 1,
+        "1": 2
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 3
+          },
+          "draws": 0,
+          "episodes": 3,
+          "losses": 1,
+          "team_count": 1,
+          "team_counts": {
+            "ShumpeiNomura": 3
+          },
+          "win_rate": 0.6666666666666666,
+          "wins": 2
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "ShumpeiNomura": 3
+      },
+      "win_rate": 0.6666666666666666,
+      "wins": 2
+    },
+    {
+      "date_counts": {
+        "2026-08-11": 1
+      },
+      "decision_rows": 104,
+      "deck_hash": "0feedfa909409ba03ebe028ab2dab08753826f159ab0cb6d06bf3d5117ee9d9e",
+      "draws": 0,
+      "episodes": 1,
+      "losses": 0,
+      "seat_counts": {
+        "1": 1
+      },
+      "split_stats": {
+        "test": {
+          "date_counts": {
+            "2026-08-11": 1
+          },
+          "draws": 0,
+          "episodes": 1,
+          "losses": 0,
+          "team_count": 1,
+          "team_counts": {
+            "e-toppo + kurupical": 1
+          },
+          "win_rate": 1.0,
+          "wins": 1
+        },
+        "train": {
+          "profiled": false
+        },
+        "valid": {
+          "profiled": false
+        }
+      },
+      "team_counts": {
+        "e-toppo + kurupical": 1
+      },
+      "win_rate": 1.0,
+      "wins": 1
+    }
+  ],
+  "deduplication_key": [
+    "dataset_date",
+    "episode_id",
+    "seat"
+  ],
+  "min_episodes": 1,
+  "profiled_splits": [
+    "test"
+  ],
+  "schema_version": "ptcg-bc-exact-deck-profile-v1",
+  "sealed_splits": [
+    "train",
+    "valid"
+  ],
+  "source": {
+    "bc_schema_version": "ptcg-bc-visible-decisions-v1",
+    "bytes": 1068418891,
+    "jsonl_members": 78,
+    "manifest_decision_rows": 3867415,
+    "manifest_decision_rows_match": null,
+    "manifest_decision_rows_match_note": "Not compared because manifest decisions cover all splits while this profile opened only test; sealed splits: train, valid.",
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/retrain_top50_recent14_20260812_v1/general_top50_time.zip",
+    "profiled_jsonl_members": 6,
+    "sealed_jsonl_members": 72
+  },
+  "split_date_counts": {
+    "test": {
+      "2026-08-11": 3457
+    }
+  },
+  "statistics": {
+    "decision_rows": 292187,
+    "exact_decks": 46,
+    "filtered_exact_decks": 0,
+    "selected_decision_rows": 292187,
+    "selected_episode_seats": 3457,
+    "selected_exact_decks": 46,
+    "unique_episode_seats": 3457
+  }
+}

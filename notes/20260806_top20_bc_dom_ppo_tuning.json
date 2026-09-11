@@ -1,0 +1,30 @@
+{
+  "acceptance_criteria": [
+    "目标指标：vs v3 在 256/512/1024 条件下 CI 下界 > 50%，优先提升 1024 局均值",
+    "不破坏 BC 与 v3 约束的安全门；出现退化必须给出可回退版本"
+  ],
+  "bridge_schema": "ptcg-web-gpt-codex-handoff-v1",
+  "created_at": "2026-08-06T14:34:15",
+  "data_scope": "最新两周 top20（默认按设计版本对应时间窗）并记录具体数据文件 hash",
+  "experiment_plan": "1) 数据与 bc/ppo 版本锁定 2) 先确认最新 top20 BC 基线再训练 3) 进行本地 seat-balanced 严格评估 4) 生成对战记录与报告",
+  "goal": "基于最新两周 top20 重新构造 BC 主导训练，并做 PPO 轻量优化以提升 vs v3 对抗表现",
+  "hypothesis": [
+    "BC 主导训练先收紧（固定最新两周 top20）；再做 PPO 轻量微调（较小学习率/小步更新）",
+    "仅允许在既有门控满足的前提下变更策略"
+  ],
+  "id": "20260806-d87400d2",
+  "notes_for_codex": "优先按现有 eval_ppo_head_to_head 与 run_ppo_gold_ab 风格复验，保留 BC 优先门控，失败回滚",
+  "owner": "user",
+  "problem_statement": "",
+  "risk_and_mitigation": [
+    "数据版本漂移：锁定训练与评估输入文件 hash",
+    "评估方差大：用 256/512 分层复验"
+  ],
+  "rollback_plan": "失败时回退至最近一次已通过门控的提交版本。",
+  "title": "基于最新两周 top20 做 BC 主导，PPO 轻调",
+  "validation": [
+    "本地严格评测：v3 / v1 参照对战，按席位平衡核验",
+    "空任务率、非法动作率、决策数等指标按任务化记录",
+    "如果涉及提交，先跑一轮离线复现脚本再提交"
+  ]
+}

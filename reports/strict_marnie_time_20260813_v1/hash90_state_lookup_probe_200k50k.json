@@ -1,0 +1,15 @@
+{
+  "accuracy_on_covered": 0.0,
+  "accuracy_with_uncovered_as_wrong": 0.0,
+  "correct_rows": 0,
+  "coverage": 0.0,
+  "covered_rows": 0,
+  "data": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/retrain_top50_recent14_20260812_v1/marnie_exact_recent14_hash90_v1.zip",
+  "schema_version": "ptcg-bc-exact-state-lookup-audit-v1",
+  "signature": "blake2b128(canonical_observation_without_serial_fields)",
+  "train_ambiguous_states": 0,
+  "train_rows": 200000,
+  "train_unique_states": 199999,
+  "valid_rows": 50000,
+  "validation_used_to_build_lookup": false
+}

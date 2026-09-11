@@ -1,0 +1,41 @@
+{
+  "schema_version": "ptcg-ppo-submission-template-contract-v1",
+  "template_version": "ptcg-ppo-alakazam-standard-pl-v1",
+  "candidate": {
+    "path": "artifacts/top3_bc77_20260810/alakazam_control/ppo_terminal01_corrected_v2_soup_u0_u10_v1/bc12p5_u10_87p5.pt",
+    "sha256": "bc3bbf185e4f61e4d3adc5dd11241f0f6001be274e90ef42e3f341f22b052393",
+    "feature_version": "ptcg-selfplay-ppo-terminal01-v1",
+    "learner_deck_hash": "3f4515092dc59df397f365a9b79c7cf0c1cb73b9aa38bc47c1b18e9df4c2fdaf"
+  },
+  "deck": {
+    "source_path": "data/gold8_recent7_20260808/decks/3f4515092dc59df397f365a9b79c7cf0c1cb73b9aa38bc47c1b18e9df4c2fdaf.csv",
+    "file_sha256": "0598646548d081832ec311c15fdc369b32c6f5e63175b0cfd1904d21fd082451",
+    "deck_hash": "3f4515092dc59df397f365a9b79c7cf0c1cb73b9aa38bc47c1b18e9df4c2fdaf",
+    "cards": 60
+  },
+  "bc_anchor": {
+    "path": "artifacts/gold8_recent7_20260808/alakazam_control/specialist_bc/best.pt",
+    "sha256": "f5500086c16a02c19f3f2abce5e144446bd079248fd9fc3f4a620f3d079c7626",
+    "feature_version": "ptcg-bc-orbit-entity-transformer-v5"
+  },
+  "decode": {
+    "order_mode": "raw",
+    "cardinality": "legal_masked_greedy",
+    "selection": "greedy_plackett_luce_without_replacement",
+    "canonicalize_order": false,
+    "sort_selected_indices": false,
+    "context_overrides": []
+  },
+  "template_files": {
+    "main.py": "de6c3f354fb797fe34785cc6679c031c1488e207099583e70d2101e39afc8313",
+    "deck.csv": "0598646548d081832ec311c15fdc369b32c6f5e63175b0cfd1904d21fd082451",
+    "policy_runtime.py": "fe7182a588962fd9c5e07e9e62433beaa1c5b3fa047bb8170e22435e4f93e997"
+  },
+  "action_exact_validation": {
+    "validator": "tools/validate_ppo_submission.py",
+    "games": 32,
+    "canonicalize_order": false,
+    "required_action_mismatches": 0,
+    "required_invalid_games": 0
+  }
+}

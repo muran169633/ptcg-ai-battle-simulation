@@ -1,0 +1,30 @@
+# ===========================================================
+# PTCG AI Battle Challenge Simulation — GitHub 仓库忽略规则
+# 本仓库只上传 源码 + 文档。大型数据产物保留在本机，不上传。
+# ===========================================================
+
+# ---- 大型数据/产物（本地保留，不上传） ----
+data/*
+!data/decks/
+dataset/
+artifacts/
+submissions/
+build/
+
+# ---- Python 缓存/编译产物 ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# ---- 内部实验/尝试追踪文件（非源码，避免仓库污染） ----
+.ptcg-*.json
+
+# ---- 临时存储/清理报告 ----
+storage_cleanup_*.json
+storage_minimize_*.json
+
+# ---- 空工具目录（无内容） ----
+.agents/
+.codex/

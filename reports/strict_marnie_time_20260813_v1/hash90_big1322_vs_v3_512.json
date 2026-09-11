@@ -1,0 +1,138 @@
+{
+  "bc_feature_source": {
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/frozen_behavior_source__sha256_f6c92841f2f6974408be05600b80f532b099a816a40ef2a5b2168fe45dc713ab/train_bc_orbit.py",
+    "sha256": "ee68efc864511d2c88da0429aba8500611e9a2a5a1738573c8073a58cb73a9cc",
+    "feature_version": "ptcg-bc-orbit-entity-transformer-v5"
+  },
+  "candidate": {
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/artifacts/gold_strict_20260813_v1/marnie_bc_hash90_big256x8_e12_seed2026081322/best.pt",
+    "sha256": "69cb52c57c47d425b3d7a24c829b58de0f3b81f1db916fd4c791b6a48ea6729d",
+    "feature_version": "ptcg-bc-orbit-entity-transformer-v5",
+    "update": null,
+    "deck": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/gold8_recent7_20260808/decks/c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af.csv",
+    "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+    "canonical_order": true,
+    "hybrid_order": false,
+    "order_mode": "canonical",
+    "model_config": {
+      "hash_size": 65536,
+      "categorical_dim": 64,
+      "model_dim": 256,
+      "layers": 8,
+      "heads": 8,
+      "dropout": 0.05,
+      "max_state_entities": 96,
+      "entity_fields": 20,
+      "option_fields": 24
+    }
+  },
+  "opponent": {
+    "path": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/artifacts/ppo_marnie_v3_incumbent600/best.pt",
+    "sha256": "d3278052b2f13d0157b37ba8b43a21a0727233e093e8adc7963b4ee085f599de",
+    "feature_version": "ptcg-selfplay-ppo-terminal01-v1",
+    "update": 440,
+    "deck": "/home/xxc/The Pokémon Company - PTCG AI Battle Challenge Simulation/data/gold8_recent7_20260808/decks/c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af.csv",
+    "deck_hash": "c20a8a46f5c635773754f03103652f5c534b13dc622448ed2255a97234c103af",
+    "canonical_order": false,
+    "hybrid_order": false,
+    "order_mode": "raw",
+    "model_config": {
+      "hash_size": 65536,
+      "categorical_dim": 64,
+      "model_dim": 128,
+      "layers": 4,
+      "heads": 4,
+      "dropout": 0.05,
+      "max_state_entities": 80,
+      "entity_fields": 20,
+      "option_fields": 24
+    }
+  },
+  "engine": {
+    "games_requested": 512,
+    "environments": 32,
+    "max_game_decisions": 1000,
+    "engine_seed_control": false,
+    "engine_seed_warning": "Python/Torch seeds do not control the official battle engine RNG; repeated runs are independent, not reproducible or paired engine-seed trials.",
+    "python_torch_seed": 2026081334,
+    "device": "cuda"
+  },
+  "evaluation": {
+    "valid_games": 512,
+    "wins": 368,
+    "losses": 144,
+    "draws": 0,
+    "invalid_games": 0,
+    "win_rate": 0.71875,
+    "decisive_win_rate": 0.71875,
+    "mean_decisions": 202.625,
+    "max_active_games": 32,
+    "seconds": 131.91863298416138,
+    "by_candidate_seat": {
+      "0": {
+        "valid_games": 256,
+        "wins": 187,
+        "losses": 69,
+        "draws": 0,
+        "win_rate": 0.73046875,
+        "wilson_95_low": 0.6730030812879184,
+        "wilson_95_high": 0.7811199848907815
+      },
+      "1": {
+        "valid_games": 256,
+        "wins": 181,
+        "losses": 75,
+        "draws": 0,
+        "win_rate": 0.70703125,
+        "wilson_95_low": 0.6485479046466456,
+        "wilson_95_high": 0.759393154802017
+      }
+    },
+    "seat_balance": {
+      "assignment_mode": "exact_valid_game_quota_v1",
+      "requested_games_by_candidate_seat": {
+        "0": 256,
+        "1": 256
+      },
+      "actual_valid_games_by_candidate_seat": {
+        "0": 256,
+        "1": 256
+      },
+      "requested_games_even": true,
+      "strict_even_balance_required": true,
+      "strict_even_balance_verified": true,
+      "actual_valid_game_gap": 0,
+      "aggregate_equals_seat_sum_verified": true
+    },
+    "invalid_by_reason": {},
+    "invalid_by_candidate_seat": {
+      "0": {
+        "invalid_games": 0,
+        "by_reason": {}
+      },
+      "1": {
+        "invalid_games": 0,
+        "by_reason": {}
+      }
+    },
+    "invalid_error_messages": {},
+    "invalid_audit_complete": true,
+    "conservative_invalid_as_loss": {
+      "trials": 512,
+      "wins": 368,
+      "nonwins": 144,
+      "win_rate": 0.71875,
+      "wilson_95_low": 0.6782873773691931,
+      "wilson_95_high": 0.7559545707520456,
+      "gate_ci_low_above_0_5": true,
+      "invalid_rate": 0.0,
+      "interpretation": "every invalid game is counted as a candidate loss"
+    },
+    "wilson_95_low": 0.6782873773691931,
+    "wilson_95_high": 0.7559545707520456,
+    "gate_ci_low_above_0_5": true
+  },
+  "started_at_utc": "2026-08-13T00:05:19.331253+00:00",
+  "finished_at_utc": "2026-08-13T00:07:31.293197+00:00",
+  "elapsed_seconds": 131.9190378189087
+}
